@@ -10,5 +10,15 @@
       "content": "De todas maneras deberas apreder a manejarla a la perfeccion",
       "autor": "Kibito"
     }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "My Unsplash Clon APP",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a rhoncus odio, non congue arcu. Nulla non fringilla odio. Cras ac elit metus. Cras sed justo porta, consectetur nunc egestas, porta augue. ",
+      "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
+      "imagePc": "https://imgur.com/6qYxhgQ",
+      "imageMobile": "https://imgur.com/rhVlaV0"
+    }
   ]
 }
