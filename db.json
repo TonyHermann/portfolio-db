@@ -17,8 +17,8 @@
       "title": "My Unsplash Clon APP",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a rhoncus odio, non congue arcu. Nulla non fringilla odio. Cras ac elit metus. Cras sed justo porta, consectetur nunc egestas, porta augue. ",
       "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
-      "imagePc": "https://i.imgur.com/j0esVqo.png",
-      "imageMobile": "https://i.imgur.com/jf4akqL.png",
+      "imagePc": "https://i.imgur.com/jf4akqL.png",
+      "imageMobile": "https://i.imgur.com/j0esVqo.png",
       "imageFull": "https://i.imgur.com/co1i2gZ.png",
       "repoLink": "https://github.com/TonyHermann/portfolio"
     },
@@ -27,8 +27,8 @@
       "title": "My CLON Unsplash Clon APP",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a rhoncus odio, non congue arcu. Nulla non fringilla odio. Cras ac elit metus. Cras sed justo porta, consectetur nunc egestas, porta augue. ",
       "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
-      "imagePc": "https://i.imgur.com/j0esVqo.png",
-      "imageMobile": "https://i.imgur.com/jf4akqL.png",
+      "imagePc": "https://i.imgur.com/jf4akqL.png",
+      "imageMobile": "https://i.imgur.com/j0esVqo.png",
       "imageFull": "https://i.imgur.com/co1i2gZ.png",
       "repoLink": "https://github.com/TonyHermann/portfolio"
     }
