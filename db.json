@@ -18,7 +18,9 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a rhoncus odio, non congue arcu. Nulla non fringilla odio. Cras ac elit metus. Cras sed justo porta, consectetur nunc egestas, porta augue. ",
       "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
       "imagePc": "https://imgur.com/j0esVqo",
-      "imageMobile": "https://imgur.com/jf4akqL"
+      "imageMobile": "https://imgur.com/jf4akqL",
+      "imageFull": "https://imgur.com/co1i2gZ",
+      "repoLink": "https://github.com/TonyHermann/portfolio"
     }
   ]
 }
