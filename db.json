@@ -35,7 +35,9 @@
       "repoLink": "https://github.com/TonyHermann/portfolio"
     }
   ],
-  "signature": {
-    "portfolio_link": "https://tonyhermann.github.io/portfolio/"
-  }
+  "signature": [
+    {
+      "portfolio_link": "https://tonyhermann.github.io/portfolio/"
+    }
+  ]
 }
