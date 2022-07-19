@@ -45,11 +45,13 @@
   "blog": [
     {
       "id": "1",
-      "Title": "First entry"
+      "title": "First entry",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a rhoncus odio, non congue arcu. Nulla non fringilla odio. Cras ac elit metus. Cras sed justo porta, consectetur nunc egestas, porta augue."
     },
     {
       "id": "2",
-      "Title": "Second entry"
-    }
+      "title": "Second entry",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a rhoncus odio, non congue arcu. Nulla non fringilla odio. Cras ac elit metus. Cras sed justo porta, consectetur nunc egestas, porta augue."
+   }
   ]
 }
