@@ -41,5 +41,15 @@
     {
       "portfolio_link": "https://tonyhermann.github.io/portfolio/"
     }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "Title": "First entry"
+    },
+    {
+      "id": "2",
+      "Title": "Second entry"
+    },   
   ]
 }
